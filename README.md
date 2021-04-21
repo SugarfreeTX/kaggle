@@ -10,8 +10,8 @@ Kaggle Data set Projects:
 
 Approach: 
 
-* The Titanic dataset I used the models SVC and RandomForestClassifier. The SVC scored better than both models of the RandomForestClassifier. The second RandomForestClassifier was built using hyper parameter combinations the newly (scikit version 0.24.1) HalvingRandomSearchCV had output.
-* The second titanic.ipynb is an attempt to use classifiers to classify the Cabins since there were such a large number of NaN for that column. 
+* The titanic_survival.ipynb I used the models SVC and RandomForestClassifier. The SVC scored better than both models of the RandomForestClassifier. The second RandomForestClassifier was built using hyper parameter combinations the newly (scikit version 0.24.1) HalvingRandomSearchCV had output.
+* The cabin_classification.ipynb is an attempt to use classifiers to classify the Cabins since there were such a large number of NaN for that column. 
 
 * For ieee-fraud-detection, I'll be using the Logistic Regression model. 
 
